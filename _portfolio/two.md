@@ -1,6 +1,5 @@
 ---
-layout: default
-title:  Page Two
+title: "two"
 ---
 
 # {{ page.title }}
