@@ -2,7 +2,7 @@
 title: "tinypalace"
 ---
 
-![](festkassel.png)
+![]({{ site.url }}\_portfolio\festkassel.png)
 
 tinypalace
 

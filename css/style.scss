@@ -28,25 +28,10 @@ a:hover {
 }
 
 
-
-
-#header {
-  padding: 4px;
-}
-
-#header .big {
-  font-size:   140%;
-  font-weight: bold;
-}
-
-#header .small {
-  font-size:    90%;
-  color:        grey;
-  padding-left: 15px;
-}
-
-#nav {
-  padding: 6px;
+#content {
+	width: 90%;
+	max-width:  800px;
+	margin: auto;
 }
 
 
