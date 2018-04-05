@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+###########
+# site.title
+
+title:    'nicole voec'
+
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+- LICENSE.md
+
