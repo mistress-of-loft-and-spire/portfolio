@@ -1,8 +1,7 @@
 ---
 title: "lady*fest kassel"
+image: "festkassel.png"
 ---
-
-![]({{ site.url }}/portfolio/img/festkassel.png)
 
 lady*fest kassel \*\*\* *** queer-feministisches festival ***
 
