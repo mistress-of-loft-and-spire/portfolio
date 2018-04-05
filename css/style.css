@@ -1,0 +1,67 @@
+
+
+:root {
+	--main-color:  #00d47e;
+	--sec-color:  #d4229f;
+}
+
+/*
+ * css styles go here
+ */
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a, a:visited {
+  color: var(--main-color);
+  background-color: var(--sec-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+.high {
+  /*color: var(--main-color);*/
+}
+
+del {
+  /*color: var(--main-color);*/
+}
+
+img {
+	image-rendering: pixelated;
+	max-width: 600px;
+}
+
+
+#content {
+
+	margin: 0 0 0 5em;
+}
+
+li {
+	display: block;
+	width: 36em;
+	font-size: 10.5pt;
+	padding-bottom: 0.6em;
+	line-height: 1.4em;
+	transform: rotate(0.3deg);
+}
+
+
+
+/*
+::-webkit-scrollbar {
+	width: 10px;
+	right: 2px;
+	background: none;
+}
+::-webkit-scrollbar-thumb {
+	background-color: var(--main-color);
+}
+
+*/
