@@ -2,7 +2,7 @@
 title: "lady*fest kassel"
 ---
 
-![]({{ site.url }}portfolio//img/festkassel.png)
+![]({{ site.url }}/portfolio/img/festkassel.png)
 
 lady*fest kassel
 

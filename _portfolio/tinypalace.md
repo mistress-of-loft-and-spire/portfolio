@@ -2,7 +2,7 @@
 title: "tinypalace"
 ---
 
-![]({{ site.url }}portfolio//img/festkassel.png)
+![]({{ site.url }}/portfolio/img/festkassel.png)
 
 tinypalace
 
