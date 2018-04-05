@@ -2,7 +2,7 @@
 title: "lady*fest kassel"
 ---
 
-![](festkassel.png)
+![]({{ site.url }}/img/festkassel.png)
 
 lady*fest kassel
 
